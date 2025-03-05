@@ -14,6 +14,4 @@ The challenge is to build out this QR code component (image below) and replicate
 
 ---
 
-Here is what it is supposed to look like:
-
 ![Design preview for the QR code component coding challenge](./preview.jpg)
